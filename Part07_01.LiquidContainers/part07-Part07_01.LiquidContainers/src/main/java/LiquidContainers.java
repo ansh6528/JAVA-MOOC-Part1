@@ -57,8 +57,6 @@ public class LiquidContainers {
 
         }
         
-//        System.out.println("First: " + firstContainer + "/" + maxAmount);
-//        System.out.println("Second: " + secondContainer + "/" + maxAmount);
     }
 
 }
